@@ -1,0 +1,47 @@
+_repo: Wigwam-stories-told-by-North-American-Indians_73136
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Judd, Mary Catherine
+    birthdate: 1852
+    deathdate: 1937
+    gutenberg_agent_id: '3175'
+    url: http://www.gutenberg.org/2009/agents/3175
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Catherine_Judd
+  illustrator:
+    agent_name: Henook-Makhewe-Kelenaka
+    aliases:
+    - De Cora, Angel
+    - DeCora, Angel
+    - Dietz, Angel DeCora
+    - Hinookmahiwi-kilinaka
+    - Cora, Angel de
+    birthdate: 1871
+    deathdate: 1919
+    gutenberg_agent_id: '49289'
+    url: http://www.gutenberg.org/2009/agents/49289
+    wikipedia: https://en.wikipedia.org/wiki/Angel_De_Cora
+description: 'Wikipedia: https://en.wikipedia.org/wiki/Wigwam_Stories'
+gutenberg_issued: '2024-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73136'
+language: en
+pgterms:marc904: https://archive.org/details/wigwamstories00juddrich/page/n7/mode/2up
+pgterms:marc905: 20230922024409judd
+pgterms:marc906: '1901'
+pgterms:marc907: US
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aBoston :$bGinn & Company Atheneaum Press, $c1901, pubdate 1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America'
+- !lcsh 'Indians of North America -- Folklore'
+- !lcc 'E011'
+- GITenberg
+title: Wigwam stories told by North American Indians
+url: http://www.gutenberg.org/ebooks/73136
