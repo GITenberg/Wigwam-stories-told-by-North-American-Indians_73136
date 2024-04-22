@@ -21,7 +21,12 @@ contributor:
     gutenberg_agent_id: '49289'
     url: http://www.gutenberg.org/2009/agents/49289
     wikipedia: https://en.wikipedia.org/wiki/Angel_De_Cora
+covers:
+- cover_type: archival
+  image_path: 73136-h/images/frontcover.jpg
 description: 'Wikipedia: https://en.wikipedia.org/wiki/Wigwam_Stories'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73136#Wigwam-stories-told-by-North-American-Indians
 gutenberg_issued: '2024-03-10'
 gutenberg_type: Text
 identifiers:
